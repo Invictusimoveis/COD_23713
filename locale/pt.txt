@@ -1,0 +1,55 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_839D5EA7_90DD_2EEA_41E1_E67D9CE8A757.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_83827EA7_90DD_2EEA_41AB_6B2A93A1BA92.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_83833EA7_90DD_2EEA_41DC_1AFCC7C04158.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839D9EA7_90DD_2EEA_41DA_D11A0E69CC58.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_8382CEA7_90DD_2EEA_41C6_E390871A772F.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_83833EA7_90DD_2EEA_41E1_369F9E2ACF00.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_8383AEA7_90DD_2EEA_41CF_D66B097767C0.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839D1EA7_90DD_2EEA_41E0_E4DAB2B4D177.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839E6EA7_90DD_2EEA_41DF_C29C7321C413.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839D9EA7_90DD_2EEA_41D4_7BD20B637223.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839C4EA7_90DD_2EEA_41C9_6983A2337E30.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839DBEA7_90DD_2EEA_41DB_54C91AE89D23.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839DFEA7_90DD_2EEA_41DC_A8E3C137E171.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839C3EA7_90DD_2EEA_41D5_7E404EC4CD96.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839CBEA7_90DD_2EEA_41BB_06E523891135.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_839CEEA7_90DD_2EEA_41DF_B4FCC0F71A1E.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+LinkBehaviour_847278E4_90DD_126E_41D6_875A02F71B1A.source = https://api.whatsapp.com/send?phone=551144324112&text=Olá, vi o tour virtual do imóvel 23713 e quero mais informações.
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_832B39C8_90CF_7297_41D9_BFDF29FD72B9.toolTip = ELEVADOR SOCIAL
+
+## Media
+
+### Title
+panorama_83F35C7F_90C6_F255_41D1_C040E7205B31.label = IMG_20241001_165845_00_207
+panorama_8148D26B_90C5_167D_41D5_576C43BAA1A1.label = IMG_20241001_165933_00_208
+panorama_8148085B_90C5_125D_41E1_E36A26D621EE.label = IMG_20241001_170014_00_209
+panorama_814B8465_90C5_3274_41C1_A6C4D0863390.label = IMG_20241001_170446_00_211
+panorama_814BCA82_90C5_36AF_41E1_9EBABACB31A7.label = IMG_20241001_170512_00_212
+panorama_814BC6BF_90C5_1ED5_41DE_F045B7530135.label = IMG_20241001_170626_00_214
+panorama_814BFC8D_90C5_12B5_4193_E12BF591779E.label = IMG_20241001_170713_00_215
+panorama_81481333_90C5_77EE_41E1_DCADED4D6748.label = IMG_20241001_170746_00_216
+panorama_814828FD_90C5_7255_41D7_EFC805840899.label = IMG_20241001_170832_00_217
+panorama_81486F0B_90C5_6FBD_41C2_BD01297AC38F.label = IMG_20241001_170854_00_218
+panorama_814874F7_90C5_1255_41AE_7B9403469C64.label = IMG_20241001_171004_00_219
+panorama_81482AF5_90C5_1655_41C8_A126342461AE.label = IMG_20241001_171705_00_220
+panorama_814800E1_90C5_326D_41C5_60F6F292F814.label = IMG_20241001_171751_00_221
+panorama_81487D0C_90C5_33BA_4183_C6DFF3E7F3F5.label = IMG_20241001_171832_00_223
+panorama_8148131A_90C5_17DE_41C9_6531D992E3D8.label = IMG_20241001_171932_00_224
+panorama_8148F93A_90C5_13DF_41D1_115F83A561A6.label = IMG_20241001_172012_00_225
+panorama_8148BF9A_90C5_EEDF_41D2_F953C50C14AA.label = IMG_20241001_172038_00_226
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD_23713
